@@ -3,7 +3,7 @@
 
 - 🔭 Learning various tools of **computer science world**
 
-- 🌱 I’m currently learning **fullstack web development**
+- 🌱 I’m currently learning **anything that matters**
 
 - 📫 Reach me through **imamankr2121@gmail.com**
 
