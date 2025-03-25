@@ -7,7 +7,7 @@
 
 - 📫 Reach me through **imamankr2121@gmail.com**
 
-- ⚡ Fun fact **Waiting for my alternate dimension self to wake me up**
+- ⚡ My portfolio [amankr](https://amankr.vercel.app/) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
